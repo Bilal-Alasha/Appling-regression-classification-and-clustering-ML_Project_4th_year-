@@ -1,7 +1,7 @@
 # California Housing Machine Learning Project
 
 This project explores the **California Housing dataset** using several machine learning techniques.  
-It was developed as a beginner ML project to cover regression, classification, and clustering tasks.
+It was developed as a beginner ML project for 4th year ML subject to cover regression, classification, and clustering tasks.
 
 ---
 
@@ -44,6 +44,6 @@ It was developed as a beginner ML project to cover regression, classification, a
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/california-housing-ml.git
-cd california-housing-ml
+git clone https://github.com/Bilal-Alasha/Appling-regression-classification-and-clustering-ML_Project_4th_year-
+cd Appling-regression-classification-and-clustering-ML_Project_4th_year
 pip install -r requirements.txt
